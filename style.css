@@ -13,10 +13,34 @@ header {
   height: 150px;
 }
 
+.heading {
+  height: 100px;
+  width: 960px;
+  background-color: limegreen;
+}
+
+.navbar {
+  height: 50px;
+  width: 960px;
+  background-color: violet;
+}
+
 .contents {
-  height: 400px;
+  /* 子要素に合わせて大きさを変動させるためにheightを削除 */
   width: 960px;
   background-color: skyblue;
+}
+
+.left-content {
+  height: 400px;
+  width: 640px;
+  background-color: #ffffff;
+}
+
+.right-content {
+  height: 370px;
+  width: 320px;
+  background-color: #f9f9f9;
 }
 
 footer {
