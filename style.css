@@ -58,3 +58,38 @@ footer {
   clear: both;
   display: block;
 }
+
+.title {
+  font-family: fantasy;
+}
+
+.heading-sentence {
+  font-size: 18px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  float: left;
+  padding-right: 10px;
+}
+
+td {
+  margin: 0;
+  padding-left: 10px;
+  line-height: 30px;
+}
+
+.stylist-image {
+  height: 100px;
+  width: 100px;
+}
+
+.stylist-name {
+  font-size: 16px;
+  text-align: center;
+}
