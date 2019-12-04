@@ -51,6 +51,7 @@ header {
 footer {
   background-color: pink;
   height: 50px;
+  text-align: center;
 }
 
 .clearfix::after {
